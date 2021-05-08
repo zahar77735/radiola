@@ -1,0 +1,9 @@
+{
+	"name": "Radiolla",
+	"description": "Network radio",
+	"uuid": "radiola@zakhar.ru",
+	"settings-schema": "org.gnome.shell.extensions.radiola",
+	"shell-version": [
+		"40"
+	]
+}

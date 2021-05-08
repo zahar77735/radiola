@@ -1,0 +1,37 @@
+/* Add your custom extension styling here */
+.control-box {
+  border-radius: 2px;
+  padding: .1em 1.5em;
+}
+.play-label {
+  font-size: 18px;
+  font-weight: bold;
+	padding: .5em 2.1em;
+}
+
+.play-stop {
+	icon-size: 4.6em;
+}
+
+.bicon {
+	padding: 2px 5px;
+}
+
+.bicon StIcon {
+	icon-size: 1.2em;
+}
+
+.radio-menu-action {
+  margin: 2.0em;
+}
+
+.station-dialog {
+	padding: 1.7em 0;
+}
+
+.station-label {
+  font-size: 18px;
+  font-weight: bold;
+	padding: .5em 2.1em;
+}
+
